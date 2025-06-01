@@ -58,3 +58,6 @@ https://leg.colorado.gov/bills/hb20-1099
 Federal:
   S.1531 — 119th Congress (2025-2026) “Assault Weapons Ban of 2025”
     https://www.congress.gov/bill/119th-congress/senate-bill/1531/text
+
+  H.R.6981 — 118th Congress (2023-2024) "Preventing Private Paramilitary Activity Act of 2024"
+    https://www.congress.gov/bill/118th-congress/house-bill/6981/text
