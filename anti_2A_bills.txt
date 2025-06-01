@@ -34,6 +34,7 @@ Colorado:
     https://leg.colorado.gov/bills/sb23-279
 
   SB21-256: Local Regulation Of Firearms
+    Fenberg(D), Moreno(D), Hooton(D), Daugherty(D)
     https://leg.colorado.gov/bills/sb21-256
 
   HB13-1224: Prohibiting Large-capacity Ammunition Magazines
