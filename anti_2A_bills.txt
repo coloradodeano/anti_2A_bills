@@ -30,6 +30,10 @@ Colorado:
   SB24-107: Weapons Possession Previous Offender Add Crimes
     https://leg.colorado.gov/bills/sb24-107
 
+  SB23-169: Increasing Minimum Age To Purchase Firearms
+    Mullica(D), Danielson(D), Duran(D), Hamrick(D)
+    https://leg.colorado.gov/bills/sb23-169
+
   SB23-279: Unserialized Firearms And Firearm Components
     https://leg.colorado.gov/bills/sb23-279
 
@@ -50,3 +54,7 @@ HB25-1055: Repeal Firearm Dealer Requirements & State Permit
 
 HB20-1099: Repeal Ammunition Magazine Prohibition
 https://leg.colorado.gov/bills/hb20-1099
+
+Federal:
+  S.1531 — 119th Congress (2025-2026) “Assault Weapons Ban of 2025”
+    https://www.congress.gov/bill/119th-congress/senate-bill/1531/text
