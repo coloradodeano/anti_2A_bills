@@ -1,18 +1,51 @@
 Colorado:
-SB25-003: Semi-auto ban https://leg.colorado.gov/bills/sb25-003
-HB1133: Ammo sales
-HB1238: Gun shows https://leg.colorado.gov/bills/hb25-1238
-HB-1353: Dealers Requires licensed state dealers for firearms, passed during the 2024 session
-SB23-279: Addresses ghost guns and firearm components
-SB24-131: Prohibits firearms in sensitive spaces
-SB24-107:
-SB21-256:
-https://leg.colorado.gov/bills/hb25-1250
-HB24-1292: https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://leg.colorado.gov/sites/default/files/documents/2024A/bills/2024a_1292_01.pdf
-Some bills aim to repeal or modify existing gun laws, like HB 1055 which proposes to repeal HB 1353
+  HB25-1133: Requirements for Sale of Firearms Ammunition
+    https://leg.colorado.gov/bills/hb25-1133
 
-https://leg.colorado.gov/bills/hb25-1055
-https://leg.colorado.gov/bills/hb25-1062
-https://leg.colorado.gov/bills/sb25-003
-https://leg.colorado.gov/bills/sb25-034
-https://www.cpr.org/2025/05/08/101-bills-2025-colorado-legislature/
+  HB25-1238: Gun Show Requirements
+    https://leg.colorado.gov/bills/hb25-1238
+
+  HB25-1250: Gun Violence Prevention & Parents of Students
+    https://leg.colorado.gov/bills/hb25-1250
+  
+  SB25-003: Semiautomatic Firearms & Rapid-Fire Devices
+    https://leg.colorado.gov/bills/sb25-003
+
+  SB25-034: Voluntary Do-Not-Sell Firearms Waiver
+    https://leg.colorado.gov/bills/sb25-034
+    https://www.cpr.org/2025/05/08/101-bills-2025-colorado-legislature/
+
+  SB24-131: Prohibiting Carrying Firearms in Sensitive Spaces
+    https://leg.colorado.gov/bills/sb24-131
+
+  HB24-1349: Firearms & Ammunition Excise Tax
+    https://leg.colorado.gov/bills/hb24-1349
+
+  HB24-1292: Prohibit Certain Weapons Used in Mass Shootings
+    https://leg.colorado.gov/bills/hb24-1292
+
+  HB24-1353: Firearms Dealer Requirements & Permit
+    https://leg.colorado.gov/bills/hb24-1353
+
+  SB24-107: Weapons Possession Previous Offender Add Crimes
+    https://leg.colorado.gov/bills/sb24-107
+
+  SB23-279: Unserialized Firearms And Firearm Components
+    https://leg.colorado.gov/bills/sb23-279
+
+  SB21-256: Local Regulation Of Firearms
+    https://leg.colorado.gov/bills/sb21-256
+
+  HB13-1224: Prohibiting Large-capacity Ammunition Magazines
+    https://app.coloradocapitolwatch.com/bill/1/HB13-1224/2013/1/
+    https://app.coloradocapitolwatch.com/watch5/bills_list_xls.php?v=1&m=1929&yr=2013&p=0
+
+Pro-2A:
+HB25-1062: Penalty for Theft of Firearms
+  https://leg.colorado.gov/bills/hb25-1062
+
+HB25-1055: Repeal Firearm Dealer Requirements & State Permit
+  https://leg.colorado.gov/bills/hb25-1055
+
+HB20-1099: Repeal Ammunition Magazine Prohibition
+https://leg.colorado.gov/bills/hb20-1099
